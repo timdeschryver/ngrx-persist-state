@@ -1,0 +1,8 @@
+{
+  "name": "ngrx-persist-state",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^6.0.0",
+    "@ngrx/store": "^6.0.0"
+  }
+}
